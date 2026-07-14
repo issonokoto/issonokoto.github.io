@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.osakanihonnagata.dokodemonauru",
+      "sha256_cert_fingerprints": [
+        "53:D6:A8:02:BE:72:8B:4D:66:AE:FB:F6:79:2E:EA:A3:CC:F8:F3:B9:80:62:0E:2A:F6:A5:93:EE:23:C4:1E:5C"
+      ]
+    }
+  }
+]
